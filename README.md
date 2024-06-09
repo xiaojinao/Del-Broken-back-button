@@ -26,7 +26,7 @@ Contributions are welcome! Join us in improving this project together.
 
 首先，确保您的计算机上安装了 PyInstaller。如果还没有安装，可以通过在终端运行以下命令来安装：
 
-##问题
+## 问题
 
 有一个小问题；当托盘图标路径设置不正确时，关闭程序会直接退出。只有正确设置托盘图标才能最小化到托盘。
 
@@ -42,6 +42,6 @@ pip install pyinstaller
 pip install keyboard
 pip install PyQt5
 ```
-##贡献
+## 贡献
 
 欢迎贡献代码，一起改善本项目！
