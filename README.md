@@ -9,3 +9,15 @@ There’s a minor issue; when the tray icon’s path isn’t set properly, closi
 These are the libraries required for running the program.
 ```pip install keyboard```
 ```pip install PyQt5```
+
+# Del-Broken-Back-Button
+
+## 项目介绍
+如果您的退格键坏了，不用担心！本程序允许您将退格键重新映射到 'Delete' 键或其他键作为替代。
+
+## 安装指南
+
+首先，确保您的计算机上安装了 PyInstaller。如果还没有安装，可以通过在终端运行以下命令来安装：
+
+```bash
+pip install pyinstaller
