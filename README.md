@@ -32,6 +32,7 @@ Contributions are welcome! Join us in improving this project together.
 
 ```bash
 pip install pyinstaller
+```
 
 ## 必要的库
 
