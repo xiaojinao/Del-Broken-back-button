@@ -10,7 +10,7 @@ These are the libraries required for running the program.
 ```bash
 pip install keyboard
 pip install PyQt5
-
+```
 
 
 ## Contribution
@@ -40,7 +40,7 @@ pip install pyinstaller
 ```bash
 pip install keyboard
 pip install PyQt5
-
+```
 ##贡献
 
 欢迎贡献代码，一起改善本项目！
